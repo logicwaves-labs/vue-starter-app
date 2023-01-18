@@ -1,13 +1,3 @@
 {
-  "recommendations": [
-    "hollowtree.vue-snippets",
-    "Vue.vscode-typescript-vue-plugin",
-    "Vue.volar",
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-rename-tag",
-    "xabikos.JavaScriptSnippets",
-    "ms-vscode.vscode-typescript-next",
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode"
-  ]
+  "recommendations": []
 }
